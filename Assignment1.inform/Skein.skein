@@ -1,0 +1,2290 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1002">
+    <generator>Inform Mac Client (Inform version 1.64/6.33/6M62)</generator>
+    <item nodeId="node-1002">
+        <command xml:space="preserve">Assignment1</command>
+        <result xml:space="preserve">
+
+
+You've awoken. A blinding light pierces your eyes as they attempt to adjust to your surroundings. You lay on a soft shore of a white-sanded beach, temporarily incapacitated but still conscious. After your eyes adjust, your arms and legs come to. You feel the powdered sand beneath your body, feeling has come back to you.
+
+Mysteria
+An Interactive Fiction by decca
+Release 1 / Serial number 170209 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD
+
+Shore (in the sand)
+You remain lying down on the soft sands of the mysterious beach. You don't know where you are. You don't know who you are.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1045"></child>
+            <child nodeId="node-1035"></child>
+            <child nodeId="node-1178"></child>
+            <child nodeId="node-1425"></child>
+            <child nodeId="node-1022"></child>
+            <child nodeId="node-1049"></child>
+            <child nodeId="node-1103"></child>
+            <child nodeId="node-1437"></child>
+            <child nodeId="node-1005"></child>
+            <child nodeId="node-1006"></child>
+            <child nodeId="node-1308"></child>
+            <child nodeId="node-1311"></child>
+        </children>
+    </item>
+    <item nodeId="node-1311">
+        <command xml:space="preserve">walk north</command>
+        <result xml:space="preserve">As you approach the cave ahead, you feel an eerie aura surrounding it. It seems like there is no light there.
+
+You must name something more substantial.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1308">
+        <command xml:space="preserve">walk</command>
+        <result xml:space="preserve">What do you want to walk?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1310"></child>
+        </children>
+    </item>
+    <item nodeId="node-1310">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">As you approach the cave ahead, you feel an eerie aura surrounding it. It seems like there is no light there.
+
+You must name something more substantial.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1006">
+        <command xml:space="preserve">stand up</command>
+        <result xml:space="preserve">You get out of the sand.
+
+Island
+You remain lying down on the soft sands of the mysterious beach.  You finally look around only to realize you are surrounded by clear blue waters. You have nothing on you but grey, loose-fitted linen clothes on your back. For an unknown reason, you feel a sense of calmness stir in the air. However it doesn't take long before that tranquility turns into worrisome. Among all the questions that float around your head, you lock on to only one thing...survival.
+
+You can see a sand (empty) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1007"></child>
+        </children>
+    </item>
+    <item nodeId="node-1007">
+        <command xml:space="preserve">stand</command>
+        <result xml:space="preserve">But you aren't in anything at the moment.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1008"></child>
+        </children>
+    </item>
+    <item nodeId="node-1008">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1009"></child>
+        </children>
+    </item>
+    <item nodeId="node-1009">
+        <command xml:space="preserve">stand</command>
+        <result xml:space="preserve">But you aren't in anything at the moment.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1005">
+        <command xml:space="preserve">stand</command>
+        <result xml:space="preserve">As you stand, you finally look around only to realize you are surrounded by clear blue waters. You have nothing on you but grey, loose-fitted linen clothes on your back. For an unknown reason, you feel a sense of calmness stir in the air. However it doesn't take long before that tranquility turns into worrisome. Among all the questions that float around your head, you lock on to only one thing. . .survival.
+
+ You see a dimly lit cave on the north side of the shore.
+
+Island
+You are now on the island. . .there's no looking back anymore.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1058"></child>
+            <child nodeId="node-1030"></child>
+            <child nodeId="node-1032"></child>
+            <child nodeId="node-1313"></child>
+            <child nodeId="node-1067"></child>
+            <child nodeId="node-1064"></child>
+            <child nodeId="node-1012"></child>
+            <child nodeId="node-1062"></child>
+        </children>
+    </item>
+    <item nodeId="node-1062">
+        <command xml:space="preserve">walk north</command>
+        <result xml:space="preserve">
+Cave entrance
+The entrance to the cave is bleak and does not garner hope for what may be inside. However you notice a torch beside the cave entrance. You feel like luck is on your side.
+
+You can also see an ember here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1319"></child>
+            <child nodeId="node-1070"></child>
+            <child nodeId="node-1224"></child>
+            <child nodeId="node-1325"></child>
+        </children>
+    </item>
+    <item nodeId="node-1325">
+        <command xml:space="preserve">x torch</command>
+        <result xml:space="preserve">The torch feels old and partially burnt like it had been used before. Maybe it can be lit?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1329"></child>
+        </children>
+    </item>
+    <item nodeId="node-1329">
+        <command xml:space="preserve">walk north</command>
+        <result xml:space="preserve">
+Darkness
+You enter the Cave, but without light.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1330"></child>
+        </children>
+    </item>
+    <item nodeId="node-1330">
+        <command xml:space="preserve">x ember</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1331"></child>
+        </children>
+    </item>
+    <item nodeId="node-1331">
+        <command xml:space="preserve">walk south</command>
+        <result xml:space="preserve">
+Cave entrance
+The entrance to the cave is bleak and does not garner hope for what may be inside. However you notice a torch beside the cave entrance. You feel like luck is on your side.
+
+You can also see an ember here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1332"></child>
+        </children>
+    </item>
+    <item nodeId="node-1332">
+        <command xml:space="preserve">take torch</command>
+        <result xml:space="preserve">You grab the torch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1333"></child>
+        </children>
+    </item>
+    <item nodeId="node-1333">
+        <command xml:space="preserve">take ember</command>
+        <result xml:space="preserve">A deep fire resonates in your hand.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1334"></child>
+        </children>
+    </item>
+    <item nodeId="node-1334">
+        <command xml:space="preserve">x ember</command>
+        <result xml:space="preserve">The ember feels warm in your hand. You seem to be resistant to fire.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1335"></child>
+        </children>
+    </item>
+    <item nodeId="node-1335">
+        <command xml:space="preserve">walk north</command>
+        <result xml:space="preserve">
+Darkness
+You enter the Cave, but without light.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1336"></child>
+        </children>
+    </item>
+    <item nodeId="node-1336">
+        <command xml:space="preserve">x torch</command>
+        <result xml:space="preserve">It is pitch dark, and you can't see a thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1337"></child>
+        </children>
+    </item>
+    <item nodeId="node-1337">
+        <command xml:space="preserve">use ember on torch</command>
+        <result xml:space="preserve">The torch is lit.
+
+The Cave's archaic interior becomes visible.
+
+Cave
+You can see a keystone here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1350"></child>
+        </children>
+    </item>
+    <item nodeId="node-1350">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">
+Cave entrance
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1351"></child>
+        </children>
+    </item>
+    <item nodeId="node-1351">
+        <command xml:space="preserve">enter cave</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1352"></child>
+        </children>
+    </item>
+    <item nodeId="node-1352">
+        <command xml:space="preserve">walk north</command>
+        <result xml:space="preserve">
+Cave
+You can see a keystone here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1224">
+        <command xml:space="preserve">take torch and ember</command>
+        <result xml:space="preserve">torch: You grab the torch.
+ember: A deep fire resonates in your hand.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1364"></child>
+            <child nodeId="node-1356"></child>
+            <child nodeId="node-1225"></child>
+        </children>
+    </item>
+    <item nodeId="node-1225">
+        <command xml:space="preserve">user ember on torch</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1226"></child>
+        </children>
+    </item>
+    <item nodeId="node-1226">
+        <command xml:space="preserve">use ember on torch</command>
+        <result xml:space="preserve">The torch is lit.
+
+The Cave's archaic interior becomes visible.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1356">
+        <command xml:space="preserve">use torch on ember</command>
+        <result xml:space="preserve">I didn't understand that sentence.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1364">
+        <command xml:space="preserve">use ember on torch</command>
+        <result xml:space="preserve">You must supply a noun.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1070">
+        <command xml:space="preserve">take torch</command>
+        <result xml:space="preserve">You grab the torch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1201"></child>
+            <child nodeId="node-1220"></child>
+            <child nodeId="node-1071"></child>
+        </children>
+    </item>
+    <item nodeId="node-1071">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the torch)
+The torch feels old and partially burnt like it had been used before. Maybe it can be lit?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1220">
+        <command xml:space="preserve">take ember</command>
+        <result xml:space="preserve">The ember feels warm in your hands. You seem to be resistant to fire.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1221"></child>
+        </children>
+    </item>
+    <item nodeId="node-1221">
+        <command xml:space="preserve">Use ember on torch</command>
+        <result xml:space="preserve">The torch is lit.
+
+The Cave's archaic interior becomes visible.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1201">
+        <command xml:space="preserve">burn torch</command>
+        <result xml:space="preserve">This dangerous act would achieve little.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1319">
+        <command xml:space="preserve">go to cave</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1320"></child>
+        </children>
+    </item>
+    <item nodeId="node-1320">
+        <command xml:space="preserve">go to cave entrance</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1012">
+        <command xml:space="preserve">stand up</command>
+        <result xml:space="preserve">But you aren't in anything at the moment.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1015"></child>
+        </children>
+    </item>
+    <item nodeId="node-1015">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1016"></child>
+        </children>
+    </item>
+    <item nodeId="node-1016">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1017"></child>
+        </children>
+    </item>
+    <item nodeId="node-1017">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1018"></child>
+        </children>
+    </item>
+    <item nodeId="node-1018">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1019"></child>
+        </children>
+    </item>
+    <item nodeId="node-1019">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1020"></child>
+        </children>
+    </item>
+    <item nodeId="node-1020">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1021"></child>
+        </children>
+    </item>
+    <item nodeId="node-1021">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1064">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+Cave entrance
+The entrance to the cave is bleak and does not garner hope for what may be inside. However you notice a torch beside the cave entrance. You feel like luck is on your side.
+
+A shimmering ember grasps its last dying breaths. Perhaps it may still be of use.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1402"></child>
+            <child nodeId="node-1529"></child>
+            <child nodeId="node-1093"></child>
+            <child nodeId="node-1229"></child>
+            <child nodeId="node-1248"></child>
+        </children>
+    </item>
+    <item nodeId="node-1248">
+        <command xml:space="preserve">x ember</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1249"></child>
+        </children>
+    </item>
+    <item nodeId="node-1249">
+        <command xml:space="preserve">darkness</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1250"></child>
+        </children>
+    </item>
+    <item nodeId="node-1250">
+        <command xml:space="preserve">dark</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1251"></child>
+        </children>
+    </item>
+    <item nodeId="node-1251">
+        <command xml:space="preserve">see</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1258"></child>
+        </children>
+    </item>
+    <item nodeId="node-1258">
+        <command xml:space="preserve">light</command>
+        <result xml:space="preserve">What do you want to light?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1259"></child>
+        </children>
+    </item>
+    <item nodeId="node-1259">
+        <command xml:space="preserve">torch</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1268"></child>
+        </children>
+    </item>
+    <item nodeId="node-1268">
+        <command xml:space="preserve">examine</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1269"></child>
+        </children>
+    </item>
+    <item nodeId="node-1269">
+        <command xml:space="preserve">use ember on torch</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1270"></child>
+        </children>
+    </item>
+    <item nodeId="node-1270">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1271"></child>
+        </children>
+    </item>
+    <item nodeId="node-1271">
+        <command xml:space="preserve">cave</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1229">
+        <command xml:space="preserve">take torch and ember</command>
+        <result xml:space="preserve">torch: You grab the torch.
+ember: A deep fire resonates in your hand.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1422"></child>
+            <child nodeId="node-1230"></child>
+            <child nodeId="node-1410"></child>
+        </children>
+    </item>
+    <item nodeId="node-1410">
+        <command xml:space="preserve">use ember on torch</command>
+        <result xml:space="preserve">The torch is lit.
+
+The Cave's archaic interior becomes visible.
+
+Inside the Cave
+A faint light eminating from a distance pulls you through the inner parts of the cave. As you journey carefully through, you hear inaudible whispers echoing through the darkness. 
+
+ You are at the point of no return. You stand before a mysterious light illuminating from a small stone.
+
+You can also see a veil and a shadow here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1459"></child>
+            <child nodeId="node-1415"></child>
+        </children>
+    </item>
+    <item nodeId="node-1415">
+        <command xml:space="preserve">x stone</command>
+        <result xml:space="preserve">You see nothing special about the keystone.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1416"></child>
+        </children>
+    </item>
+    <item nodeId="node-1416">
+        <command xml:space="preserve">take keystone</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1459">
+        <command xml:space="preserve">take stone</command>
+        <result xml:space="preserve">You feel an ominous yet vibrant aura around you as you grab the stone.
+
+You hear faint whispers. . .
+
+"Haste, old friend."
+
+
+The sound of rocks crumbling echoes throughout your surroundings. The cave begins to cave in.
+You suddenly notice a veil east of your direction. . . it seems to lead to the outside.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1551"></child>
+        </children>
+    </item>
+    <item nodeId="node-1551">
+        <command xml:space="preserve">open veil</command>
+        <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1552"></child>
+        </children>
+    </item>
+    <item nodeId="node-1552">
+        <command xml:space="preserve">open veil with keystone</command>
+        <result xml:space="preserve">You unlock the veil.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1553"></child>
+        </children>
+    </item>
+    <item nodeId="node-1553">
+        <command xml:space="preserve">walk east</command>
+        <result xml:space="preserve">(first opening the veil)
+
+Lagoon
+You arrive at the lagoon, narrowly escaping death, you trot forwards and notice remnants that lay beneath.
+
+You remain standing upon heaps of what seems like bones.
+
+You can also see a veil here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1562"></child>
+        </children>
+    </item>
+    <item nodeId="node-1562">
+        <command xml:space="preserve">x bones</command>
+        <result xml:space="preserve">Your Keystone reacts to the bones beneath. You hear the several whispers of those before you . . .
+
+
+
+    *** You become dizzy and light-headed as you hear a familiar voice.
+
+ "Welcome home. . .patient B22. We thank you for your participation and services."
+
+ Your body falls to the ground weightless and lifeless. You are now one with your ancestors. ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1230">
+        <command xml:space="preserve">light torch with ember</command>
+        <result xml:space="preserve">The torch is lit.
+
+The Cave's archaic interior becomes visible.
+
+Inside the Cave
+You see a veil east of your direction.
+
+A faint light eminating from a distance pulls you through the inner parts of the cave. As you journey carefully through, you hear inaudible whispers echoing through the darkness. 
+
+ You are at the point of no return. You stand before a mysterious light illuminating from a small stone.
+
+You can also see a shadow here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1231"></child>
+            <child nodeId="node-1453"></child>
+            <child nodeId="node-1464"></child>
+        </children>
+    </item>
+    <item nodeId="node-1464">
+        <command xml:space="preserve">x shadow</command>
+        <result xml:space="preserve">You see nothing special about the shadow.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1465"></child>
+        </children>
+    </item>
+    <item nodeId="node-1465">
+        <command xml:space="preserve">open veil</command>
+        <result xml:space="preserve">You open the veil.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1466"></child>
+        </children>
+    </item>
+    <item nodeId="node-1466">
+        <command xml:space="preserve">enter lagoon</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1467"></child>
+        </children>
+    </item>
+    <item nodeId="node-1467">
+        <command xml:space="preserve">walk east</command>
+        <result xml:space="preserve">
+Lagoon
+You see a veil east of your direction.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1468"></child>
+        </children>
+    </item>
+    <item nodeId="node-1468">
+        <command xml:space="preserve">x veil</command>
+        <result xml:space="preserve">It looks like it leads to the outside.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1453">
+        <command xml:space="preserve">take stone</command>
+        <result xml:space="preserve">You feel an ominous yet vibrant aura around you as you grab the stone.
+
+You here faint whispers. . .
+
+Haste, old friend.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1454"></child>
+        </children>
+    </item>
+    <item nodeId="node-1454">
+        <command xml:space="preserve">take shadow</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1231">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Cave
+As you approach the cave ahead, you feel an eerie aura surrounding it. It seems like there is no light there.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1232"></child>
+        </children>
+    </item>
+    <item nodeId="node-1232">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Cave
+As you approach the cave ahead, you feel an eerie aura surrounding it. It seems like there is no light there.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1233"></child>
+        </children>
+    </item>
+    <item nodeId="node-1233">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1234"></child>
+        </children>
+    </item>
+    <item nodeId="node-1234">
+        <command xml:space="preserve">ember</command>
+        <result xml:space="preserve">You see nothing special about the ember.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1235"></child>
+        </children>
+    </item>
+    <item nodeId="node-1235">
+        <command xml:space="preserve">x torch</command>
+        <result xml:space="preserve">The torch feels old and partially burnt like it had been used before. Maybe it can be lit?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1236"></child>
+        </children>
+    </item>
+    <item nodeId="node-1236">
+        <command xml:space="preserve">burn</command>
+        <result xml:space="preserve">What do you want to burn?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1237"></child>
+        </children>
+    </item>
+    <item nodeId="node-1237">
+        <command xml:space="preserve">torch</command>
+        <result xml:space="preserve">This dangerous act would achieve little.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1422">
+        <command xml:space="preserve">burn ember with torch</command>
+        <result xml:space="preserve">The torch is lit.
+
+The Cave's archaic interior becomes visible.
+
+Inside the Cave
+A faint light eminating from a distance pulls you through the inner parts of the cave. As you journey carefully through, you hear inaudible whispers echoing through the darkness. 
+
+ You are at the point of no return. You stand before a mysterious light illuminating from a small stone.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1423"></child>
+        </children>
+    </item>
+    <item nodeId="node-1423">
+        <command xml:space="preserve">take stone</command>
+        <result xml:space="preserve">You feel an ominous yet vibrant aura around you as you grab the stone.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1424"></child>
+        </children>
+    </item>
+    <item nodeId="node-1424">
+        <command xml:space="preserve">x stone</command>
+        <result xml:space="preserve">A mystic power resonates deep within this stone.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1093">
+        <command xml:space="preserve">take torch</command>
+        <result xml:space="preserve">You grab the torch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1490"></child>
+        </children>
+    </item>
+    <item nodeId="node-1490">
+        <command xml:space="preserve">take ember</command>
+        <result xml:space="preserve">A deep fire resonates in your hand.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1491"></child>
+            <child nodeId="node-1498"></child>
+        </children>
+    </item>
+    <item nodeId="node-1498">
+        <command xml:space="preserve">use ember on torch</command>
+        <result xml:space="preserve">The torch is lit.
+
+The Cave's archaic interior becomes visible.
+
+Inside the Cave
+A faint light eminating from a distance pulls you through the inner parts of the cave. As you journey carefully through, you hear inaudible whispers echoing through the darkness. 
+
+ You are at the point of no return. You stand before a mysterious light illuminating from a small stone.
+
+You can also see a veil and a shadow here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1499"></child>
+        </children>
+    </item>
+    <item nodeId="node-1499">
+        <command xml:space="preserve">take veil</command>
+        <result xml:space="preserve">That's fixed in place.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1500"></child>
+        </children>
+    </item>
+    <item nodeId="node-1500">
+        <command xml:space="preserve">open veil</command>
+        <result xml:space="preserve">You open the veil.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1501"></child>
+        </children>
+    </item>
+    <item nodeId="node-1501">
+        <command xml:space="preserve">exit</command>
+        <result xml:space="preserve">But you aren't in anything at the moment.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1502"></child>
+        </children>
+    </item>
+    <item nodeId="node-1502">
+        <command xml:space="preserve">x veil</command>
+        <result xml:space="preserve">You see nothing special about the veil.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1512"></child>
+        </children>
+    </item>
+    <item nodeId="node-1512">
+        <command xml:space="preserve">take stone</command>
+        <result xml:space="preserve">You feel an ominous yet vibrant aura around you as you grab the stone.
+
+You hear faint whispers. . .
+
+"Haste, old friend."
+
+
+The sound of rocks crumbling echoes throughout your surroundings. The cave begins to cave in.
+You suddenly notice a veil east of your direction. . . it seems to lead to the outside.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1513"></child>
+        </children>
+    </item>
+    <item nodeId="node-1513">
+        <command xml:space="preserve">open veil</command>
+        <result xml:space="preserve">That's already open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1514"></child>
+        </children>
+    </item>
+    <item nodeId="node-1514">
+        <command xml:space="preserve">walk east</command>
+        <result xml:space="preserve">
+Lagoon
+You arrive at the lagoon, narrowly escaping death, you trot forwards and notice remnants that lay beneath.
+
+You remain standing upon heaps of what seems like bones.
+
+You can also see a veil here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1491">
+        <command xml:space="preserve">light torch with ember</command>
+        <result xml:space="preserve">The torch is lit.
+
+The Cave's archaic interior becomes visible.
+
+Inside the Cave
+A faint light eminating from a distance pulls you through the inner parts of the cave. As you journey carefully through, you hear inaudible whispers echoing through the darkness. 
+
+ You are at the point of no return. You stand before a mysterious light illuminating from a small stone.
+
+You can also see a veil and a shadow here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1492"></child>
+        </children>
+    </item>
+    <item nodeId="node-1492">
+        <command xml:space="preserve">take stone</command>
+        <result xml:space="preserve">You feel an ominous yet vibrant aura around you as you grab the stone.
+
+You hear faint whispers. . .
+
+"Haste, old friend."
+
+
+The sound of rocks crumbling echoes throughout your surroundings. The cave begins to cave in.
+You suddenly notice a veil east of your direction. . . it seems to lead to the outside.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1493"></child>
+        </children>
+    </item>
+    <item nodeId="node-1493">
+        <command xml:space="preserve">walk east</command>
+        <result xml:space="preserve">(first opening the veil)
+
+Lagoon
+You can see a veil here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1529">
+        <command xml:space="preserve">take ember</command>
+        <result xml:space="preserve">A deep fire resonates in your hand.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1530"></child>
+        </children>
+    </item>
+    <item nodeId="node-1530">
+        <command xml:space="preserve">take torch</command>
+        <result xml:space="preserve">You grab the torch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1531"></child>
+        </children>
+    </item>
+    <item nodeId="node-1531">
+        <command xml:space="preserve">light torch with ember</command>
+        <result xml:space="preserve">The torch is lit.
+
+The Cave's archaic interior becomes visible.
+
+Inside the Cave
+A faint light eminating from a distance pulls you through the inner parts of the cave. As you journey carefully through, you hear inaudible whispers echoing through the darkness. 
+
+ You are at the point of no return. You stand before a mysterious light illuminating from a small stone.
+
+You can also see a veil and a shadow here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1532"></child>
+        </children>
+    </item>
+    <item nodeId="node-1532">
+        <command xml:space="preserve">take stone</command>
+        <result xml:space="preserve">You feel an ominous yet vibrant aura around you as you grab the stone.
+
+You hear faint whispers. . .
+
+"Haste, old friend."
+
+
+The sound of rocks crumbling echoes throughout your surroundings. The cave begins to cave in.
+You suddenly notice a veil east of your direction. . . it seems to lead to the outside.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1533"></child>
+        </children>
+    </item>
+    <item nodeId="node-1533">
+        <command xml:space="preserve">open veil</command>
+        <result xml:space="preserve">You open the veil.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1534"></child>
+        </children>
+    </item>
+    <item nodeId="node-1534">
+        <command xml:space="preserve">walk east</command>
+        <result xml:space="preserve">
+Lagoon
+You arrive at the lagoon, narrowly escaping death, you trot forwards and notice remnants that lay beneath.
+
+You remain standing upon heaps of what seems like bones.
+
+You can also see a veil here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1535"></child>
+        </children>
+    </item>
+    <item nodeId="node-1535">
+        <command xml:space="preserve">x bones</command>
+        <result xml:space="preserve">Your Keystone reacts to the bones beneath. You hear the several whispers of those before you . . .
+
+
+
+    *** You become dizzy and light-headed as you hear a familiar voice.
+
+ "Welcome home. . .patient B22. We thank you for your participation and services."
+
+ Your body falls to the ground weightless and lifeless. You are now one with your ancestors. ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1402">
+        <command xml:space="preserve">grab ember and torch</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1403"></child>
+        </children>
+    </item>
+    <item nodeId="node-1403">
+        <command xml:space="preserve">take torch and ember</command>
+        <result xml:space="preserve">torch: You grab the torch.
+ember: A deep fire resonates in your hand.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1404"></child>
+        </children>
+    </item>
+    <item nodeId="node-1404">
+        <command xml:space="preserve">use torch and ember</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1405"></child>
+        </children>
+    </item>
+    <item nodeId="node-1405">
+        <command xml:space="preserve">use ember on torch</command>
+        <result xml:space="preserve">The torch is lit.
+
+The Cave's archaic interior becomes visible.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1406"></child>
+        </children>
+    </item>
+    <item nodeId="node-1406">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Cave entrance
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1067">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Cave entrance
+The entrance to the cave is bleak and does not garner hope for what may be inside. However you notice a torch beside the cave entrance. You feel like luck is on your side.
+
+You can also see an ember here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1367"></child>
+            <child nodeId="node-1111"></child>
+            <child nodeId="node-1100"></child>
+            <child nodeId="node-1078"></child>
+            <child nodeId="node-1129"></child>
+        </children>
+    </item>
+    <item nodeId="node-1129">
+        <command xml:space="preserve">take torch and ember</command>
+        <result xml:space="preserve">lightable torch: You grab the torch.
+ember: The ember feels warm in your hands. You seem to be resistant to fire.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1130"></child>
+        </children>
+    </item>
+    <item nodeId="node-1130">
+        <command xml:space="preserve">light torch</command>
+        <result xml:space="preserve">This dangerous act would achieve little.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1131"></child>
+        </children>
+    </item>
+    <item nodeId="node-1131">
+        <command xml:space="preserve">light torch</command>
+        <result xml:space="preserve">This dangerous act would achieve little.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1078">
+        <command xml:space="preserve">take torch</command>
+        <result xml:space="preserve">You grab the torch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1170"></child>
+            <child nodeId="node-1088"></child>
+            <child nodeId="node-1135"></child>
+            <child nodeId="node-1116"></child>
+            <child nodeId="node-1079"></child>
+        </children>
+    </item>
+    <item nodeId="node-1079">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the lightable torch)
+The torch feels old and partially burnt like it had been used before. Maybe it can be lit?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1080"></child>
+        </children>
+    </item>
+    <item nodeId="node-1080">
+        <command xml:space="preserve">drop</command>
+        <result xml:space="preserve">(the torch)
+Dropped.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1081"></child>
+        </children>
+    </item>
+    <item nodeId="node-1081">
+        <command xml:space="preserve">pick up torch</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1082"></child>
+        </children>
+    </item>
+    <item nodeId="node-1082">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the torch)
+The torch feels old and partially burnt like it had been used before. Maybe it can be lit?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1083"></child>
+        </children>
+    </item>
+    <item nodeId="node-1083">
+        <command xml:space="preserve">drop</command>
+        <result xml:space="preserve">(the torch)
+Dropped.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1084"></child>
+        </children>
+    </item>
+    <item nodeId="node-1084">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the torch)
+The torch feels old and partially burnt like it had been used before. Maybe it can be lit?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1116">
+        <command xml:space="preserve">take ember</command>
+        <result xml:space="preserve">The ember feels warm in your hands. You seem to be resistant to fire.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1147"></child>
+            <child nodeId="node-1126"></child>
+            <child nodeId="node-1210"></child>
+        </children>
+    </item>
+    <item nodeId="node-1210">
+        <command xml:space="preserve">light torch with ember</command>
+        <result xml:space="preserve">The torch is lit.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1216"></child>
+        </children>
+    </item>
+    <item nodeId="node-1216">
+        <command xml:space="preserve">burn torch</command>
+        <result xml:space="preserve">This dangerous act would achieve little.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1126">
+        <command xml:space="preserve">light torch</command>
+        <result xml:space="preserve">This dangerous act would achieve little.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1142"></child>
+        </children>
+    </item>
+    <item nodeId="node-1142">
+        <command xml:space="preserve">burn torch</command>
+        <result xml:space="preserve">This dangerous act would achieve little.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1147">
+        <command xml:space="preserve">burn</command>
+        <result xml:space="preserve">What do you want to burn?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1148"></child>
+        </children>
+    </item>
+    <item nodeId="node-1148">
+        <command xml:space="preserve">burn torch</command>
+        <result xml:space="preserve">This dangerous act would achieve little.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1149"></child>
+        </children>
+    </item>
+    <item nodeId="node-1149">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  an ember
+  a burnable torch
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1135">
+        <command xml:space="preserve">light torch</command>
+        <result xml:space="preserve">This dangerous act would achieve little.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1197"></child>
+            <child nodeId="node-1136"></child>
+        </children>
+    </item>
+    <item nodeId="node-1136">
+        <command xml:space="preserve">drop torch</command>
+        <result xml:space="preserve">A voice whispers. . . "no light, no passage"
+Dropped.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1197">
+        <command xml:space="preserve">burn torch</command>
+        <result xml:space="preserve">This dangerous act would achieve little.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1088">
+        <command xml:space="preserve">drop</command>
+        <result xml:space="preserve">(the torch)
+A voice whispers. . . no light, no passage
+Dropped.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1089"></child>
+        </children>
+    </item>
+    <item nodeId="node-1089">
+        <command xml:space="preserve">take torch</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1090"></child>
+        </children>
+    </item>
+    <item nodeId="node-1090">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the torch)
+The torch feels old and partially burnt like it had been used before. Maybe it can be lit?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1170">
+        <command xml:space="preserve">burn torch</command>
+        <result xml:space="preserve">This dangerous act would achieve little.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1100">
+        <command xml:space="preserve">take ember and torch</command>
+        <result xml:space="preserve">ember: A deep fire resonates in your hand.
+torch: You grab the torch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1241"></child>
+            <child nodeId="node-1101"></child>
+        </children>
+    </item>
+    <item nodeId="node-1101">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a lightable torch
+  an ember
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1102"></child>
+        </children>
+    </item>
+    <item nodeId="node-1102">
+        <command xml:space="preserve">drop torch</command>
+        <result xml:space="preserve">A voice whispers. . . no light, no passage
+Dropped.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1241">
+        <command xml:space="preserve">burn torch</command>
+        <result xml:space="preserve">Torch remains unlit. You must use your new flame.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1111">
+        <command xml:space="preserve">take ember</command>
+        <result xml:space="preserve">The ember feels warm in your hands. You seem to be resistant to fire.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1112"></child>
+        </children>
+    </item>
+    <item nodeId="node-1112">
+        <command xml:space="preserve">take torch</command>
+        <result xml:space="preserve">You grab the torch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1154"></child>
+            <child nodeId="node-1121"></child>
+        </children>
+    </item>
+    <item nodeId="node-1121">
+        <command xml:space="preserve">light torch</command>
+        <result xml:space="preserve">This dangerous act would achieve little.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1154">
+        <command xml:space="preserve">burn torch</command>
+        <result xml:space="preserve">This dangerous act would achieve little.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1155"></child>
+        </children>
+    </item>
+    <item nodeId="node-1155">
+        <command xml:space="preserve">burn</command>
+        <result xml:space="preserve">What do you want to burn?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1156"></child>
+        </children>
+    </item>
+    <item nodeId="node-1156">
+        <command xml:space="preserve">torch</command>
+        <result xml:space="preserve">This dangerous act would achieve little.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1157"></child>
+        </children>
+    </item>
+    <item nodeId="node-1157">
+        <command xml:space="preserve">torch</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1166"></child>
+        </children>
+    </item>
+    <item nodeId="node-1166">
+        <command xml:space="preserve">burn torch</command>
+        <result xml:space="preserve">This dangerous act would achieve little.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1367">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Darkness
+You enter the Cave, but without light.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1368"></child>
+        </children>
+    </item>
+    <item nodeId="node-1368">
+        <command xml:space="preserve">take torch</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1369"></child>
+        </children>
+    </item>
+    <item nodeId="node-1369">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+Cave entrance
+The entrance to the cave is bleak and does not garner hope for what may be inside. However you notice a torch beside the cave entrance. You feel like luck is on your side.
+
+You can also see an ember here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1370"></child>
+        </children>
+    </item>
+    <item nodeId="node-1370">
+        <command xml:space="preserve">take torch and ember</command>
+        <result xml:space="preserve">torch: You grab the torch.
+ember: A deep fire resonates in your hand.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1371"></child>
+        </children>
+    </item>
+    <item nodeId="node-1371">
+        <command xml:space="preserve">use ember on torch</command>
+        <result xml:space="preserve">The torch is lit.
+
+The Cave's archaic interior becomes visible.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1372"></child>
+        </children>
+    </item>
+    <item nodeId="node-1372">
+        <command xml:space="preserve">take keystone</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1373"></child>
+        </children>
+    </item>
+    <item nodeId="node-1373">
+        <command xml:space="preserve">enter cave</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1374"></child>
+        </children>
+    </item>
+    <item nodeId="node-1374">
+        <command xml:space="preserve">walk north</command>
+        <result xml:space="preserve">
+Cave
+You can see a keystone and now the player here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1313">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Island
+You are now on the island. . .there's no looking back anymore.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1314"></child>
+            <child nodeId="node-1386"></child>
+        </children>
+    </item>
+    <item nodeId="node-1386">
+        <command xml:space="preserve">walk north</command>
+        <result xml:space="preserve">
+Cave entrance
+The entrance to the cave is bleak and does not garner hope for what may be inside. However you notice a torch beside the cave entrance. You feel like luck is on your side.
+
+You can also see an ember here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1387"></child>
+        </children>
+    </item>
+    <item nodeId="node-1387">
+        <command xml:space="preserve">take torch and ember</command>
+        <result xml:space="preserve">torch: You grab the torch.
+ember: A deep fire resonates in your hand.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1388"></child>
+        </children>
+    </item>
+    <item nodeId="node-1388">
+        <command xml:space="preserve">go north</command>
+        <result xml:space="preserve">
+Darkness
+You enter the Cave, but without light.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1389"></child>
+        </children>
+    </item>
+    <item nodeId="node-1389">
+        <command xml:space="preserve">go back</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1390"></child>
+        </children>
+    </item>
+    <item nodeId="node-1390">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">
+Cave entrance
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1391"></child>
+        </children>
+    </item>
+    <item nodeId="node-1391">
+        <command xml:space="preserve">use ember on torch</command>
+        <result xml:space="preserve">The torch is lit.
+
+The Cave's archaic interior becomes visible.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1314">
+        <command xml:space="preserve">look back</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1315"></child>
+        </children>
+    </item>
+    <item nodeId="node-1315">
+        <command xml:space="preserve">walk north</command>
+        <result xml:space="preserve">
+Darkness
+As you approach the cave ahead, you feel an eerie aura surrounding it. It seems like there is no light there.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1316"></child>
+        </children>
+    </item>
+    <item nodeId="node-1316">
+        <command xml:space="preserve">take torch</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1032">
+        <command xml:space="preserve">leave</command>
+        <result xml:space="preserve">But you aren't in anything at the moment.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1033"></child>
+        </children>
+    </item>
+    <item nodeId="node-1033">
+        <command xml:space="preserve">enter</command>
+        <result xml:space="preserve">You get into the sand.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1034"></child>
+        </children>
+    </item>
+    <item nodeId="node-1034">
+        <command xml:space="preserve">stand up</command>
+        <result xml:space="preserve">You get out of the sand.
+
+Island
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1030">
+        <command xml:space="preserve">enter sand</command>
+        <result xml:space="preserve">As you stand, you finally look around only to realize you are surrounded by clear blue waters. You have nothing on you but grey, loose-fitted linen clothes on your back. For an unknown reason, you feel a sense of calmness stir in the air. However it doesn't take long before that tranquility turns into worrisome. Among all the questions that float around your head, you lock on to only one thing...survival.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1058">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1059"></child>
+        </children>
+    </item>
+    <item nodeId="node-1059">
+        <command xml:space="preserve">esat</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1060"></child>
+        </children>
+    </item>
+    <item nodeId="node-1060">
+        <command xml:space="preserve">walk east</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1437">
+        <command xml:space="preserve">stan</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1438"></child>
+        </children>
+    </item>
+    <item nodeId="node-1438">
+        <command xml:space="preserve">stand</command>
+        <result xml:space="preserve">As you stand, you finally look around only to realize you are surrounded by clear blue waters. You have nothing on you but grey, loose-fitted linen clothes on your back. For an unknown reason, you feel a sense of calmness stir in the air. However it doesn't take long before that tranquility turns into worrisome. Among all the questions that float around your head, you lock on to only one thing. . .survival.
+
+ You see a dimly lit cave on the north side of the shore.
+
+Island
+You are now on the island. . .there's no looking back anymore.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1439"></child>
+        </children>
+    </item>
+    <item nodeId="node-1439">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+Cave entrance
+The entrance to the cave is bleak and does not garner hope for what may be inside. However you notice a torch beside the cave entrance. You feel like luck is on your side.
+
+A shimmering ember grasps its last dying breaths. Perhaps it may still be of use.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1440"></child>
+        </children>
+    </item>
+    <item nodeId="node-1440">
+        <command xml:space="preserve">take ember and torch</command>
+        <result xml:space="preserve">ember: A deep fire resonates in your hand.
+torch: You grab the torch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1441"></child>
+        </children>
+    </item>
+    <item nodeId="node-1441">
+        <command xml:space="preserve">light torch with ember</command>
+        <result xml:space="preserve">The torch is lit.
+
+The Cave's archaic interior becomes visible.
+
+Inside the Cave
+A faint light eminating from a distance pulls you through the inner parts of the cave. As you journey carefully through, you hear inaudible whispers echoing through the darkness. 
+
+ You are at the point of no return. You stand before a mysterious light illuminating from a small stone.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1442"></child>
+        </children>
+    </item>
+    <item nodeId="node-1442">
+        <command xml:space="preserve">take keystone</command>
+        <result xml:space="preserve">You feel an ominous yet vibrant aura around you as you grab the stone.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1103">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You would have to get out of the sand first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1104"></child>
+        </children>
+    </item>
+    <item nodeId="node-1104">
+        <command xml:space="preserve">stand</command>
+        <result xml:space="preserve">As you stand, you finally look around only to realize you are surrounded by clear blue waters. You have nothing on you but grey, loose-fitted linen clothes on your back. For an unknown reason, you feel a sense of calmness stir in the air. However it doesn't take long before that tranquility turns into worrisome. Among all the questions that float around your head, you lock on to only one thing. . .survival.
+
+ You see a dimly lit cave on the north side of the shore.
+
+Island
+You are now on the island. . .there's no looking back anymore.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1105"></child>
+        </children>
+    </item>
+    <item nodeId="node-1105">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Cave entrance
+The entrance to the cave is bleak and does not garner hope for what may be inside. However you notice a torch beside the cave entrance. You feel like luck is on your side.
+
+You can also see an ember here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1378"></child>
+            <child nodeId="node-1106"></child>
+        </children>
+    </item>
+    <item nodeId="node-1106">
+        <command xml:space="preserve">take torch</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1107"></child>
+        </children>
+    </item>
+    <item nodeId="node-1107">
+        <command xml:space="preserve">drop torch</command>
+        <result xml:space="preserve">A voice whispers. . . "no light, no passage"
+Dropped.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1108"></child>
+        </children>
+    </item>
+    <item nodeId="node-1108">
+        <command xml:space="preserve">pick up ember</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1378">
+        <command xml:space="preserve">take ember and torch</command>
+        <result xml:space="preserve">ember: A deep fire resonates in your hand.
+torch: You grab the torch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1379"></child>
+        </children>
+    </item>
+    <item nodeId="node-1379">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+Darkness
+You enter the Cave, but without light.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1380"></child>
+        </children>
+    </item>
+    <item nodeId="node-1380">
+        <command xml:space="preserve">light torch with ember</command>
+        <result xml:space="preserve">The torch is lit.
+
+The Cave's archaic interior becomes visible.
+
+Inside the Cave
+You can see a keystone and now the player here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1381"></child>
+        </children>
+    </item>
+    <item nodeId="node-1381">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Inside the Cave
+You can see a keystone and now the player here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1049">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You would have to get out of the sand first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1050"></child>
+        </children>
+    </item>
+    <item nodeId="node-1050">
+        <command xml:space="preserve">stand</command>
+        <result xml:space="preserve">As you stand, you finally look around only to realize you are surrounded by clear blue waters. You have nothing on you but grey, loose-fitted linen clothes on your back. For an unknown reason, you feel a sense of calmness stir in the air. However it doesn't take long before that tranquility turns into worrisome. Among all the questions that float around your head, you lock on to only one thing. . .survival.
+
+ You see a dimly lit cave on the north side of the shore.
+
+Island
+You are now on the island. . .there's no looking back anymore.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1051"></child>
+        </children>
+    </item>
+    <item nodeId="node-1051">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Cave
+As you approach the cave ahead, you feel an eerie aura surrounding it. It seems like there is no light there.
+
+You notice a torch beside the cave entrance. You feel luck is on your side.
+
+You can also see an ember here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1052"></child>
+            <child nodeId="node-1075"></child>
+        </children>
+    </item>
+    <item nodeId="node-1075">
+        <command xml:space="preserve">take torch</command>
+        <result xml:space="preserve">You grab the torch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1192"></child>
+        </children>
+    </item>
+    <item nodeId="node-1192">
+        <command xml:space="preserve">light torch</command>
+        <result xml:space="preserve">This dangerous act would achieve little.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1052">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1022">
+        <command xml:space="preserve">lie down</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1023"></child>
+        </children>
+    </item>
+    <item nodeId="node-1023">
+        <command xml:space="preserve">lay down</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1024"></child>
+        </children>
+    </item>
+    <item nodeId="node-1024">
+        <command xml:space="preserve">get up</command>
+        <result xml:space="preserve">But you aren't in anything at the moment.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1425">
+        <command xml:space="preserve">hellp</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1426"></child>
+        </children>
+    </item>
+    <item nodeId="node-1426">
+        <command xml:space="preserve">hello</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1427"></child>
+        </children>
+    </item>
+    <item nodeId="node-1427">
+        <command xml:space="preserve">rise</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1428"></child>
+        </children>
+    </item>
+    <item nodeId="node-1428">
+        <command xml:space="preserve">stand</command>
+        <result xml:space="preserve">As you stand, you finally look around only to realize you are surrounded by clear blue waters. You have nothing on you but grey, loose-fitted linen clothes on your back. For an unknown reason, you feel a sense of calmness stir in the air. However it doesn't take long before that tranquility turns into worrisome. Among all the questions that float around your head, you lock on to only one thing. . .survival.
+
+ You see a dimly lit cave on the north side of the shore.
+
+Island
+You are now on the island. . .there's no looking back anymore.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1429"></child>
+        </children>
+    </item>
+    <item nodeId="node-1429">
+        <command xml:space="preserve">walk north</command>
+        <result xml:space="preserve">
+Cave entrance
+The entrance to the cave is bleak and does not garner hope for what may be inside. However you notice a torch beside the cave entrance. You feel like luck is on your side.
+
+A shimmering ember grasps its last dying breaths. Perhaps it may still be of use.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1430"></child>
+        </children>
+    </item>
+    <item nodeId="node-1430">
+        <command xml:space="preserve">take torch</command>
+        <result xml:space="preserve">You grab the torch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1431"></child>
+        </children>
+    </item>
+    <item nodeId="node-1431">
+        <command xml:space="preserve">take ember</command>
+        <result xml:space="preserve">A deep fire resonates in your hand.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1432"></child>
+        </children>
+    </item>
+    <item nodeId="node-1432">
+        <command xml:space="preserve">light torch</command>
+        <result xml:space="preserve">Torch remains unlit. You must use your new flame.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1433"></child>
+        </children>
+    </item>
+    <item nodeId="node-1433">
+        <command xml:space="preserve">light torch with flame</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1434"></child>
+        </children>
+    </item>
+    <item nodeId="node-1434">
+        <command xml:space="preserve">light torch with ember</command>
+        <result xml:space="preserve">The torch is lit.
+
+The Cave's archaic interior becomes visible.
+
+Inside the Cave
+A faint light eminating from a distance pulls you through the inner parts of the cave. As you journey carefully through, you hear inaudible whispers echoing through the darkness. 
+
+ You are at the point of no return. You stand before a mysterious light illuminating from a small stone.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1435"></child>
+        </children>
+    </item>
+    <item nodeId="node-1435">
+        <command xml:space="preserve">take stone</command>
+        <result xml:space="preserve">You feel an ominous yet vibrant aura around you as you grab the stone.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1436"></child>
+        </children>
+    </item>
+    <item nodeId="node-1436">
+        <command xml:space="preserve">x stone</command>
+        <result xml:space="preserve">A mystic power resonates deep within this stone.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1178">
+        <command xml:space="preserve">get up</command>
+        <result xml:space="preserve">As you stand, you finally look around only to realize you are surrounded by clear blue waters. You have nothing on you but grey, loose-fitted linen clothes on your back. For an unknown reason, you feel a sense of calmness stir in the air. However it doesn't take long before that tranquility turns into worrisome. Among all the questions that float around your head, you lock on to only one thing. . .survival.
+
+ You see a dimly lit cave on the north side of the shore.
+
+Island
+You are now on the island. . .there's no looking back anymore.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1179"></child>
+        </children>
+    </item>
+    <item nodeId="node-1179">
+        <command xml:space="preserve">look around</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1180"></child>
+        </children>
+    </item>
+    <item nodeId="node-1180">
+        <command xml:space="preserve">go to cave</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1181"></child>
+        </children>
+    </item>
+    <item nodeId="node-1181">
+        <command xml:space="preserve">walk north</command>
+        <result xml:space="preserve">
+Cave
+As you approach the cave ahead, you feel an eerie aura surrounding it. It seems like there is no light there.
+
+You notice a torch beside the cave entrance. You feel luck is on your side.
+
+You can also see an ember here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1182"></child>
+        </children>
+    </item>
+    <item nodeId="node-1182">
+        <command xml:space="preserve">grab torch</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1183"></child>
+        </children>
+    </item>
+    <item nodeId="node-1183">
+        <command xml:space="preserve">take torch</command>
+        <result xml:space="preserve">You grab the torch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1184"></child>
+        </children>
+    </item>
+    <item nodeId="node-1184">
+        <command xml:space="preserve">take ember</command>
+        <result xml:space="preserve">The ember feels warm in your hands. You seem to be resistant to fire.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1185"></child>
+        </children>
+    </item>
+    <item nodeId="node-1185">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1186"></child>
+        </children>
+    </item>
+    <item nodeId="node-1186">
+        <command xml:space="preserve"> torch</command>
+        <result xml:space="preserve">The torch feels old and partially burnt like it had been used before. Maybe it can be lit?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1187"></child>
+        </children>
+    </item>
+    <item nodeId="node-1187">
+        <command xml:space="preserve">light torch</command>
+        <result xml:space="preserve">This dangerous act would achieve little.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1035">
+        <command xml:space="preserve">exit</command>
+        <result xml:space="preserve">As you stand, you finally look around only to realize you are surrounded by clear blue waters. You have nothing on you but grey, loose-fitted linen clothes on your back. For an unknown reason, you feel a sense of calmness stir in the air. However it doesn't take long before that tranquility turns into worrisome. Among all the questions that float around your head, you lock on to only one thing...survival.
+
+Island
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1036"></child>
+        </children>
+    </item>
+    <item nodeId="node-1036">
+        <command xml:space="preserve">stand</command>
+        <result xml:space="preserve">But you aren't in anything at the moment.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1037"></child>
+        </children>
+    </item>
+    <item nodeId="node-1037">
+        <command xml:space="preserve">enter</command>
+        <result xml:space="preserve">You must supply a noun.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1038"></child>
+        </children>
+    </item>
+    <item nodeId="node-1038">
+        <command xml:space="preserve">enter sand</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1039"></child>
+        </children>
+    </item>
+    <item nodeId="node-1039">
+        <command xml:space="preserve">leave island</command>
+        <result xml:space="preserve">I only understood you as far as wanting to leave.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1045">
+        <command xml:space="preserve">enter snd</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1046"></child>
+        </children>
+    </item>
+    <item nodeId="node-1046">
+        <command xml:space="preserve">enter sand</command>
+        <result xml:space="preserve">But you're already in the sand.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1047"></child>
+        </children>
+    </item>
+    <item nodeId="node-1047">
+        <command xml:space="preserve">stand up</command>
+        <result xml:space="preserve">As you stand, you finally look around only to realize you are surrounded by clear blue waters. You have nothing on you but grey, loose-fitted linen clothes on your back. For an unknown reason, you feel a sense of calmness stir in the air. However it doesn't take long before that tranquility turns into worrisome. Among all the questions that float around your head, you lock on to only one thing...survival.
+
+Island
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>
